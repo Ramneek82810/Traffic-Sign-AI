@@ -66,9 +66,7 @@ Follow these steps to set up the project on your local machine:
 
 1. Clone the repository
 
-2. Install dependencies:
-pip install -r requirements.txt
-🔧 Dependencies installed!
+2. Install dependencies
 
 3. Download the dataset:
 
