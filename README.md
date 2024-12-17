@@ -85,11 +85,6 @@ Use the trained model to classify traffic signs
 
 ## 📈 Results 📊
 The model achieves an accuracy of 95.4% on the test set.
-Example classifications:
-
-🚦 Traffic Sign Image	🏷️ Predicted Class
-Speed Limit 30 ⚡
-Stop Sign 🛑
 
 ## ✨ Features 🌟
 -Recognizes 43 different types of traffic signs 🚦.
