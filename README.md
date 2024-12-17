@@ -3,14 +3,23 @@ This project leverages Python 🐍 and Convolutional Neural Networks (CNNs) 🖥
 
 ## Table of Contents 📚
 📌 About the Project
+
 📂 Dataset
+
 🛠️ Technologies Used
+
 📊 Model Architecture
+
 📦 Installation
+
 ⚙️ Usage
+
 📈 Results
+
 ✨ Features
+
 🤝 Contributing
+
 📞 Contact
 
 
