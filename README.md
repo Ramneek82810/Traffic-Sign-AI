@@ -55,17 +55,11 @@ The model employs a Convolutional Neural Network (CNN) with the following struct
 Follow these steps to set up the project on your local machine:
 
 1. Clone the repository:
-
-bash
-Copy code
 git clone https://github.com/yourusername/traffic-sign-classification.git
 cd traffic-sign-classification
 🗂️ Repository cloned!
 
 2. Install dependencies:
-
-bash
-Copy code
 pip install -r requirements.txt
 🔧 Dependencies installed!
 
@@ -77,25 +71,16 @@ Download and extract the dataset into the data/ folder 📂.
 ## ⚙️ Usage 🚀
 1. Train the Model:
 Train the CNN model on the dataset:
-
-bash
-Copy code
 python train_model.py
 📈 Training started!
 
 2. Test the Model:
 Evaluate the model's performance:
-
-bash
-Copy code
 python evaluate_model.py
 ✅ Model evaluation completed!
 
 3. Classify New Images:
 Use the trained model to classify traffic signs:
-
-bash
-Copy code
 python classify_image.py --image path_to_image
 🖼️ Classification done!
 
