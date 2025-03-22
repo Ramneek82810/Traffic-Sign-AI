@@ -39,6 +39,7 @@ The German Traffic Sign Recognition Benchmark (GTSRB) dataset is used for traini
 👉 Source: GTSRB Dataset on Kaggle 📦
 
 ## 🛠️ Technologies Used 🧑‍💻
+
 Programming Language: Python 🐍
 
 Deep Learning Framework: TensorFlow/Keras 🤖
