@@ -1,4 +1,4 @@
-#  Traffic Sign🚦 Classification using CNN 🧠📷
+#  Traffic Sign🚦Classification using CNN 🧠📷
 
 This project leverages Python 🐍 and Convolutional Neural Networks (CNNs) 🖥️🤖 to train a model that classifies traffic signs into 43 categories. It aims to identify different types of traffic signs from images with high accuracy, making it a valuable asset for autonomous vehicles 🚗, traffic monitoring systems 🛣️, and more.
 
