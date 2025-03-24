@@ -12,7 +12,7 @@ This project leverages Python 🐍 and Convolutional Neural Networks (CNNs) 🖥
 
 - 📊 Model Architecture
 
-📦 Installation
+- 📦 Installation
 
 ⚙️ Usage
 
