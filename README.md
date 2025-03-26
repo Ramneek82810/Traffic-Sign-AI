@@ -22,9 +22,6 @@ This project leverages Python 🐍 and Convolutional Neural Networks (CNNs) 🖥
 
 - 🤝 Contributing
 
-- 📞 Contact
-
-
 ##  About the Project 🌟
 
 The primary goal of this project is to train a CNN to classify traffic signs from images with high accuracy. Traffic signs play a vital role in ensuring road safety 🚦, and this model automates their recognition.
