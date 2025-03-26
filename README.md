@@ -16,7 +16,7 @@ This project leverages Python 🐍 and Convolutional Neural Networks (CNNs) 🖥
 
 - ⚙️ Usage
 
-📈 Results
+- 📈 Results
 
 ✨ Features
 
