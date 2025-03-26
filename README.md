@@ -22,7 +22,7 @@ This project leverages Python 🐍 and Convolutional Neural Networks (CNNs) 🖥
 
 - 🤝 Contributing
 
-📞 Contact
+- 📞 Contact
 
 
 ##  About the Project 🌟
