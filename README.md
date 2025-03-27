@@ -31,6 +31,7 @@ The primary goal of this project is to train a CNN to classify traffic signs fro
 - 📋 Use Case: Autonomous vehicles 🚙, traffic management systems 🛑.
 
 ## Dataset 🗂️
+
 The German Traffic Sign Recognition Benchmark (GTSRB) dataset is used for training and testing. It contains 43 classes of traffic signs and includes more than 50,000 images with varied lighting 🌞, weather conditions 🌧️, and orientations 🔄.
 
 👉 Source: GTSRB Dataset on Kaggle 📦
