@@ -44,7 +44,7 @@ Deep Learning Framework: TensorFlow/Keras 🤖
 
 Libraries:
 
--NumPy 📊
+- NumPy 📊
 
 -Pandas 📑
 
