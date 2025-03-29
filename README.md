@@ -48,7 +48,7 @@ Libraries:
 
 - Pandas 📑
 
--Matplotlib 📉
+- Matplotlib 📉
 
 -OpenCV 🎥
 
