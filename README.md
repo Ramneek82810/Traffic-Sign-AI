@@ -46,7 +46,7 @@ Libraries:
 
 - NumPy 📊
 
--Pandas 📑
+- Pandas 📑
 
 -Matplotlib 📉
 
