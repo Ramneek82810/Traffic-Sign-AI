@@ -50,7 +50,7 @@ Libraries:
 
 - Matplotlib 📉
 
--OpenCV 🎥
+- OpenCV 🎥
 
 Dataset Handling: Scikit-learn 🧪
 
