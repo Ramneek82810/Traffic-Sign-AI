@@ -60,7 +60,7 @@ The model employs a Convolutional Neural Network (CNN) with the following struct
 
 - Convolutional Layers: Extract spatial features 🧩.
 
--Pooling Layers: Reduce dimensions while retaining key information 📏.
+- Pooling Layers: Reduce dimensions while retaining key information 📏.
 
 -Dense Layers: Perform classification with softmax activation 🎯.
 
