@@ -55,6 +55,7 @@ Libraries:
 Dataset Handling: Scikit-learn 🧪
 
 ## 📊 Model Architecture 🏗️
+
 The model employs a Convolutional Neural Network (CNN) with the following structure:
 
 - Convolutional Layers: Extract spatial features 🧩.
