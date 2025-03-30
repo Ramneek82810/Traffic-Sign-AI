@@ -65,6 +65,7 @@ The model employs a Convolutional Neural Network (CNN) with the following struct
 - Dense Layers: Perform classification with softmax activation 🎯.
 
 ## 📦 Installation ⚙️
+
 Follow these steps to set up the project on your local machine:
 
 1. Clone the repository
