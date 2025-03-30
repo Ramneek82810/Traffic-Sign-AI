@@ -72,7 +72,7 @@ Follow these steps to set up the project on your local machine:
   
 - Install dependencies
 
-3. Download the dataset:
+- Download the dataset:
 
 Visit the GTSRB Dataset page 🌐.
 Download and extract the dataset into the data/ folder 📂.
