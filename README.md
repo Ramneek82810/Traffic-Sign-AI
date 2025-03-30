@@ -69,8 +69,8 @@ The model employs a Convolutional Neural Network (CNN) with the following struct
 Follow these steps to set up the project on your local machine:
 
 - Clone the repository
-
-2. Install dependencies
+  
+- Install dependencies
 
 3. Download the dataset:
 
