@@ -83,7 +83,7 @@ Download and extract the dataset into the data/ folder 📂.
 - Train the Model:
 Train the CNN model on the dataset
 
-2. Test the Model:
+- Test the Model:
 Evaluate the model's performance
 
 3. Classify New Images:
