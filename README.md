@@ -86,7 +86,7 @@ Train the CNN model on the dataset
 - Test the Model:
 Evaluate the model's performance
 
-3. Classify New Images:
+- Classify New Images:
 Use the trained model to classify traffic signs
 
 ## 📈 Results 📊
