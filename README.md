@@ -79,7 +79,8 @@ Visit the GTSRB Dataset page 🌐.
 Download and extract the dataset into the data/ folder 📂.
 
 ## ⚙️ Usage 🚀
-1. Train the Model:
+
+- Train the Model:
 Train the CNN model on the dataset
 
 2. Test the Model:
