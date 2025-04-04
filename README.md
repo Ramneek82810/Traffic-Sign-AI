@@ -93,6 +93,7 @@ Use the trained model to classify traffic signs
 The model achieves an accuracy of 95.4% on the test set.
 
 ## ✨ Features 🌟
+
 -Recognizes 43 different types of traffic signs 🚦.
 
 -Implements a robust CNN architecture 🏗️ for high accuracy.
