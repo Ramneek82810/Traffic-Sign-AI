@@ -89,6 +89,7 @@ Train the CNN model on the dataset
 Evaluate the model's performance
 
 - Classify New Images:
+  
 Use the trained model to classify traffic signs
 
 ## 📈 Results 📊
