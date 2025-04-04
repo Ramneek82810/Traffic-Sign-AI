@@ -81,6 +81,7 @@ Download and extract the dataset into the data/ folder 📂.
 ## ⚙️ Usage 🚀
 
 - Train the Model:
+  
 Train the CNN model on the dataset
 
 - Test the Model:
