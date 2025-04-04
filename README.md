@@ -103,7 +103,7 @@ The model achieves an accuracy of 95.4% on the test set.
 
 - Preprocessing includes image resizing and normalization 🖼️.
 
--Easy-to-use scripts for training, evaluation, and prediction ⚙️.
+- Easy-to-use scripts for training, evaluation, and prediction ⚙️.
 
 ## 🤝 Contributing 🌟
 Contributions are always welcome! 🎉
