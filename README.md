@@ -101,7 +101,7 @@ The model achieves an accuracy of 95.4% on the test set.
 
 - Implements a robust CNN architecture 🏗️ for high accuracy.
 
--Preprocessing includes image resizing and normalization 🖼️.
+- Preprocessing includes image resizing and normalization 🖼️.
 
 -Easy-to-use scripts for training, evaluation, and prediction ⚙️.
 
