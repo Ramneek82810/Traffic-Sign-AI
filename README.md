@@ -113,9 +113,10 @@ To contribute:
 1. Fork the repository 🍴.
 
 2. Create a new branch:
-bash
-Copy code
-git checkout -b feature/YourFeature
+   
+- bash
+- Copy code
+- git checkout -b feature/YourFeature
 
 3.Commit your changes and push to your branch 🚀.
 
