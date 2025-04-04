@@ -99,7 +99,7 @@ The model achieves an accuracy of 95.4% on the test set.
 
 - Recognizes 43 different types of traffic signs 🚦.
 
--Implements a robust CNN architecture 🏗️ for high accuracy.
+- Implements a robust CNN architecture 🏗️ for high accuracy.
 
 -Preprocessing includes image resizing and normalization 🖼️.
 
