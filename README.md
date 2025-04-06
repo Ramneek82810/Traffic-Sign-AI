@@ -106,6 +106,7 @@ The model achieves an accuracy of 95.4% on the test set.
 - Easy-to-use scripts for training, evaluation, and prediction ⚙️.
 
 ## 🤝 Contributing 🌟
+
 Contributions are always welcome! 🎉
 
 To contribute:
