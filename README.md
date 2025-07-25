@@ -1,4 +1,4 @@
-# 🚦 Traffic Sign Recognition using Deep Learning
+# 🚦Traffic Sign Recognition using Deep Learning
 
 A Convolutional Neural Network (CNN)-based AI system designed to automatically recognize German traffic signs from images. This project leverages the GTSRB dataset to train a model that can assist in autonomous driving systems by accurately detecting and classifying traffic signs.
 
