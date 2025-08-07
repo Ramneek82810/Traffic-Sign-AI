@@ -73,6 +73,7 @@ A Convolutional Neural Network (CNN)-based AI system designed to automatically r
 3. Run the main script
 
 ```bash
+
 git clone https://github.com/Ramneek82810/Traffic-Sign-AI
 cd Traffic-Sign-AI
 pip install -r requirements.txt  # or install manually
