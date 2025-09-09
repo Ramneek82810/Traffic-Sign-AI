@@ -96,4 +96,3 @@ python traffic.py
 - 📱 Deploy as mobile app using TensorFlow Lite
 - 🎥 Integrate with vehicle dashcam or Raspberry Pi
 - 🧪 Hyperparameter tuning and data augmentation
-
