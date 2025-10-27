@@ -4,7 +4,7 @@ A Convolutional Neural Network (CNN)-based AI system designed to automatically r
 
 ---
  
-## 🧠 Key Features
+## 🧠 Key Features  
 
 - 🧾 Recognizes and classifies over 40 different types of traffic signs
 - 🖼️ Handles `.ppm` format images from the GTSRB dataset
