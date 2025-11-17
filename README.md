@@ -14,7 +14,7 @@ A Convolutional Neural Network (CNN)-based AI system designed to automatically r
 - 🔁 Easily extendable to other datasets (e.g., LISA Traffic Sign Dataset)
 
 ---
-
+ 
 ## 🎯 Real-World Applications
 
 - 🚗 Self-driving cars and ADAS (Advanced Driver Assistance Systems)
