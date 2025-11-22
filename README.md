@@ -11,7 +11,7 @@ A Convolutional Neural Network (CNN)-based AI system designed to automatically r
 - 🧠 Built using CNNs with multiple convolution and pooling layers
 - 📉 Outputs training loss and accuracy graphs for performance evaluation
 - 📌 Visualizes predictions on actual sign images
-- 🔁 Easily extendable to other datasets (e.g., LISA Traffic Sign Dataset)
+- 🔁 Easily extendable to other datasets (e.g., LISA Traffic Sign Dataset) 
 
 ---
  
