@@ -8,7 +8,7 @@ A Convolutional Neural Network (CNN)-based AI system designed to automatically r
 
 - 🧾 Recognizes and classifies over 40 different types of traffic signs
 - 🖼️ Handles `.ppm` format images from the GTSRB dataset
-- 🧠 Built using CNNs with multiple convolution and pooling layers
+- 🧠 Built using CNNs with multiple convolution and pooling layers 
 - 📉 Outputs training loss and accuracy graphs for performance evaluation
 - 📌 Visualizes predictions on actual sign images
 - 🔁 Easily extendable to other datasets (e.g., LISA Traffic Sign Dataset) 
